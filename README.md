@@ -20,11 +20,13 @@
           <br/><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
+<br/><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white">
+<img src="https://img.shields.io/badge/LangGraph-FF4B4B?style=for-the-badge&logo=LangChain&logoColor=white">
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
-<img src="https://img.shields.io/badge/vLLM-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"> 
+<img src="https://img.shields.io/badge/MCP-333333?style=for-the-badge&logo=Anthropic&logoColor=white">
+<img src="https://img.shields.io/badge/vLLM-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/WandB-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
           </div>
     </div>
     <div align= "center">
