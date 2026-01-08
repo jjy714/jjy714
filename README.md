@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> AI Researcher/Engineer </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> I care for my own goods, which also should mean the greater good. It goes both ways. </br> Also "I write code that writes code, so I can watch Netflix." 🍿</div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> I care for my own goods, which also should mean the greater good. It goes both ways. </br> Also, I write code that writes code, so I can watch Netflix. 🍿</div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
